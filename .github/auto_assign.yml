@@ -1,0 +1,12 @@
+addReviewers: true
+# Enable to add reviewers as assignees.
+addAssignees: false
+
+reviewers:
+  - jeremytee97
+  - jaycxz
+
+skipKeywords:
+  - wip
+
+numberOfReviewers: 0
