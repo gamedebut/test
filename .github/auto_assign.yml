@@ -1,6 +1,4 @@
 addReviewers: true
-# Enable to add reviewers as assignees.
-addAssignees: false
 
 reviewers:
   - jeremytee97
@@ -9,4 +7,4 @@ reviewers:
 skipKeywords:
   - wip
 
-numberOfReviewers: 0
+numberOfReviewers: 2
